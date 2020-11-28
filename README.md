@@ -4,9 +4,10 @@
 Используемые библиотеки: `stats`, `pandas`, `numpy`, `datetime`, `seaborn`, `decimal`
 
 # Задачи
-- Рассчитать метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI
+- Анализ пользовательской активности DAU, WAU, MAU
 - Когортный анализ
-- 
+- Расчет LTV и CAC 
+- Расчет ROMI
 
 # Выводы
 
